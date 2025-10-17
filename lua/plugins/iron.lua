@@ -27,6 +27,7 @@ return {
         config = {
           repl_definition = {
             python = { command = get_python_command() },
+            r = { command = { "R", "--no-save", "--no-restore", "--interactive" } },
           },
           repl_open_cmd = "botright 15 split",
         },
