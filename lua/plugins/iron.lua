@@ -19,7 +19,7 @@ return {
           repl_definition = {
             python = {
               command = get_python_command(),
-              format = require("iron.fts.common").bracketed_paste,
+              format = require("iron.fts.common").bracketed_paste_python,
             },
             r = { command = { "R", "--no-save", "--no-restore", "--interactive" } },
           },
