@@ -1,6 +1,6 @@
-# Neovim Configuration
+# 💤 LazyVim
 
-Personal Neovim configuration built on [LazyVim](https://github.com/LazyVim/LazyVim).
+Personal [LazyVim](https://github.com/LazyVim/LazyVim) configuration.
 
 ## Features
 
